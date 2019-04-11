@@ -1,0 +1,54 @@
+
+.container{
+    /* height: 1000px;
+    width: 1000px; */
+    padding-top: 10%;
+    padding-bottom: 10%;
+    align-content: center;
+    border: 15px solid blue;
+    text-align: center;
+   
+    background-color: rgb(61, 236, 178);
+}
+#tokenInput{
+width: 600px;
+margin-top: 2%;
+height: 40px;
+border-radius: 10px;
+}
+#btn_buyToken{
+    /* width: 10%; */
+    margin: 2%;
+   height: 40px;
+   border-radius: 10px;
+
+}
+#loader{
+    font-size: 30px;
+    text-align: center;
+    color: aquamarine;
+   
+}
+#progress_bar{
+    height: 40px;
+    /* margin-left: 400px;
+    margin-right: 200px; */
+    /* padding-left: 200px;
+    padding-right: 200px; */
+    
+}
+#btn_data{
+    height: 50px;
+    text-align: center;
+    background: cornsilk;
+    display: none;
+    width: 300px;
+    box-align: center;
+    border-radius: 10px;
+    margin-left:400px;
+    padding-top: 10px;    
+}
+
+
+
+

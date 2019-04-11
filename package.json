@@ -1,0 +1,14 @@
+{
+    "name": "TownShip",
+    "description": "TownShip Token for Sale",
+    "authors": "Nasir",
+    "version": "1.0.0",
+    "main": "truffle.js",
+    "dependencies": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+      }
+}
